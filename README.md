@@ -131,7 +131,7 @@ sudo apt-get install -y build-essential cmake g++ can-utils iproute2
 ### Compile
 
 ```bash
-git clone https://github.com/yourusername/automotive-gateway
+git clone https://github.com/lequangvan2019-wq/automotive-gateway
 cd automotive-gateway
 cmake -B build -DCMAKE_BUILD_TYPE=Release
 cmake --build build --parallel
